@@ -9,8 +9,8 @@ However, now that I'm done, I can happily express myself this way :triump: :triu
 
 ## Links to the exercises done today 
 
-- [Link to my GitHub Repository for today](https://github.com/imangareeboo/DHExercise2) and [GitHub Pages](https://imangareeboo.github.io/DHExercise2/exercise2.html)
-- [Link to my HTML and CSS files](https://github.com/imangareeboo/DHExercise2/blob/main/exercise2.html)
+- [Link to my GitHub Repository for today](https://github.com/imangareeboo/DHExercise2) and [GitHub Pages](https://github.com/imangareeboo/DHExercise2/blob/main/exercise2.html)
+- [Link to my HTML and CSS files](https://imangareeboo.github.io/DHExercise2/exercise2.html)
 - [Link to Pandoc transformations](https://github.com/imangareeboo/DHExercise2/blob/main/pandoc_transformations.zip.zip)
 - [Link to my Bibliography](https://imangareeboo.github.io/DHExercise2/mpbibliography.html)
 
