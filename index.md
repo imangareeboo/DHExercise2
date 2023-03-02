@@ -1,5 +1,5 @@
 # In Class Exercise
-## Student's name: Iman Gareeboo
+## Iman Gareeboo
 
 Thursday March 2nd, 2023 
 
