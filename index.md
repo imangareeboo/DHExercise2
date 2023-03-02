@@ -3,9 +3,9 @@
 
 Thursday March 2nd, 2023 
 
-I actually really enjoy messing with HTML pages, even though it can be annoying when it doesn't work just because you left one little sign off. However, I think it was instructive to have an exercise in class like this. I will say that prepping for this exercise left me going like this :weary: :scream: :anguished: :dizzy_face:
+I actually really enjoy messing with HTML pages, even though it can be annoying when it doesn't work just because you left one little sign off. However, I think it was instructive to have an exercise in class like this. I will say that prepping for this exercise left me going like this 😩 😱 😧 😵
 
-However, now that I'm done, I can happily express myself this way :triump: :triump: :triumph: :satisfied: :satisfied: :satisfied: 
+However, now that I'm done, I can happily express myself this way 😤 😤 😤 😆 😆 😆 
 
 ## Links to the exercises done today 
 
