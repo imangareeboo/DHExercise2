@@ -1,17 +1,19 @@
 # In Class Exercise
-## Student's name: XXX 
+## Student's name: Iman Gareeboo
 
 Thursday March 2nd, 2023 
 
-At the end of the class you can write here a final thought on the exercise and on the work that we have been doing so far. 
+I actually really enjoy messing with HTML pages, even though it can be annoying when it doesn't work just because you left one little sign off. However, I think it was instructive to have an exercise in class like this. I will say that prepping for this exercise left me going like this :weary: :scream: :anguished: :dizzy_face:
+
+However, now that I'm done, I can happily express myself this way :triump: :triump: :triumph: :satisfied: :satisfied: :satisfied: 
 
 ## Links to the exercises done today 
 
 - [Link to my GitHub Repository for today](https://github.com/imangareeboo/DHExercise2) and [GitHub Pages](https://imangareeboo.github.io/DHExercise2/exercise2.html)
 - [Link to my HTML and CSS files](https://github.com/imangareeboo/DHExercise2/blob/main/exercise2.html)
-- [Link to Pandoc transformations]()
+- [Link to Pandoc transformations](https://github.com/imangareeboo/DHExercise2/blob/main/pandoc_transformations.zip.zip)
 - [Link to my Bibliography](https://imangareeboo.github.io/DHExercise2/mpbibliography.html)
 
 ## Comments or notes about problems 
 
-Here...
+It was definitely interesting figuring out how to properly edit an html within the actual command line terminal. I also found the most challenging thing to be formatting the actual image and correcting the CSS coding to center it. 
