@@ -7,8 +7,8 @@ At the end of the class you can write here a final thought on the exercise and o
 
 ## Links to the exercises done today 
 
-- [Link to my GitHub Repository for today](https://github.com/imangareeboo/DHExercise2) and [GitHub Pages]()
-- [Link to my HTML and CSS files]()
+- [Link to my GitHub Repository for today](https://github.com/imangareeboo/DHExercise2) and [GitHub Pages](https://imangareeboo.github.io/DHExercise2/exercise2.html)
+- [Link to my HTML and CSS files](https://github.com/imangareeboo/DHExercise2/blob/main/exercise2.html)
 - [Link to Pandoc transformations]()
 - [Link to my Bibliography](https://imangareeboo.github.io/DHExercise2/mpbibliography.html)
 
