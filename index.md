@@ -9,7 +9,7 @@ However, now that I'm done, I can happily express myself this way 😤 😤 😤
 
 ## Links to the exercises done today 
 
-- [Link to my GitHub Repository for today](https://github.com/imangareeboo/DHExercise2) and [GitHub Pages]((https://imangareeboo.github.io/DHExercise2/)
+- [Link to my GitHub Repository for today](https://github.com/imangareeboo/DHExercise2) and [GitHub Pages](https://imangareeboo.github.io/DHExercise2/)
 - [Link to my HTML and CSS files](https://imangareeboo.github.io/DHExercise2/exercise2.html)
 - [Link to Pandoc transformations](https://imangareeboo.github.io/DHExercise2/pandoc_transformations.zip.zip)
 - [Link to my Bibliography](https://imangareeboo.github.io/DHExercise2/mpbibliography.html)
